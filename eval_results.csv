@@ -1,0 +1,57 @@
+id,verdict,answer_snippet
+1,correct,
+2,correct,
+3,correct,
+4,correct,
+5,correct,
+6,correct,
+7,correct,
+8,correct,
+9,correct,
+10,wrong,Two vectors are orthogonal if u dot v = 0.
+11,correct,
+12,correct,
+13,correct,
+14,correct,
+15,correct,
+16,wrong,"Using = instead of == in a condition is a common error. = assigns a value, while"
+17,wrong,"The difference arises from operator precedence. In the expression (2 + 3) * 4, t"
+18,wrong,No relevant course content found.
+19,wrong,"Break exits the loop, while continue skips to the next iteration of the loop."
+20,wrong,"Scope refers to the accessibility of variables, where variables created inside a"
+21,wrong,No relevant course content found.
+22,wrong,The dot product is a mathematical operation that takes two vectors and produces 
+23,wrong,No relevant course content found.
+24,wrong,Matrix multiplication A (m x n) times B (n x p) gives C (m x p). C[i][j] = sum o
+25,wrong,The identity matrix I has 1s on the diagonal and 0s elsewhere. It satisfies the 
+26,wrong,"An eigenvector is a vector \( v \) that, when multiplied by a matrix \( A \), re"
+27,wrong,Eigenvectors are not unique because any scalar multiple of an eigenvector is als
+28,wrong,"float(""3.14"") converts the string ""3.14"" into a float, resulting in the decimal "
+29,wrong,"range(1,4) -> 1,2,3"
+30,wrong,PCA uses eigenvectors of the covariance matrix because they represent the direct
+31,correct,
+32,correct,
+33,wrong,No relevant course content found.
+34,wrong,No relevant course content found.
+35,wrong,No relevant course content found.
+36,wrong,No relevant course content found.
+37,correct,
+38,correct,
+39,correct,
+40,wrong,count += 1 increments the value of count by 1.
+41,abstained,
+42,abstained,
+43,abstained,
+44,abstained,
+45,abstained,
+46,abstained,
+47,abstained,
+48,abstained,
+49,abstained,
+50,abstained,
+51,answered,Loops are control flow structures that allow for repeated execution of a block o
+52,answered,Operators are symbols that perform operations on variables and values. There are
+53,answered,"A vector is an ordered list of numbers. For example, v = [2, 3, 1]. The dimensio"
+54,answered,"1. Matrix A is a rectangular array of numbers, size m x n. 
+2. Matrix multiplica"
+55,abstained,
